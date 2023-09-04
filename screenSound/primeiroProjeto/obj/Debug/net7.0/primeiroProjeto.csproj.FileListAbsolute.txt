@@ -1,0 +1,15 @@
+/Users/juliarufino/Documents/projetosGitHub/screenSound/screenSound/primeiroProjeto/bin/Debug/net7.0/primeiroProjeto
+/Users/juliarufino/Documents/projetosGitHub/screenSound/screenSound/primeiroProjeto/bin/Debug/net7.0/primeiroProjeto.deps.json
+/Users/juliarufino/Documents/projetosGitHub/screenSound/screenSound/primeiroProjeto/bin/Debug/net7.0/primeiroProjeto.runtimeconfig.json
+/Users/juliarufino/Documents/projetosGitHub/screenSound/screenSound/primeiroProjeto/bin/Debug/net7.0/primeiroProjeto.dll
+/Users/juliarufino/Documents/projetosGitHub/screenSound/screenSound/primeiroProjeto/bin/Debug/net7.0/primeiroProjeto.pdb
+/Users/juliarufino/Documents/projetosGitHub/screenSound/screenSound/primeiroProjeto/obj/Debug/net7.0/primeiroProjeto.csproj.AssemblyReference.cache
+/Users/juliarufino/Documents/projetosGitHub/screenSound/screenSound/primeiroProjeto/obj/Debug/net7.0/primeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliarufino/Documents/projetosGitHub/screenSound/screenSound/primeiroProjeto/obj/Debug/net7.0/primeiroProjeto.AssemblyInfoInputs.cache
+/Users/juliarufino/Documents/projetosGitHub/screenSound/screenSound/primeiroProjeto/obj/Debug/net7.0/primeiroProjeto.AssemblyInfo.cs
+/Users/juliarufino/Documents/projetosGitHub/screenSound/screenSound/primeiroProjeto/obj/Debug/net7.0/primeiroProjeto.csproj.CoreCompileInputs.cache
+/Users/juliarufino/Documents/projetosGitHub/screenSound/screenSound/primeiroProjeto/obj/Debug/net7.0/primeiroProjeto.dll
+/Users/juliarufino/Documents/projetosGitHub/screenSound/screenSound/primeiroProjeto/obj/Debug/net7.0/refint/primeiroProjeto.dll
+/Users/juliarufino/Documents/projetosGitHub/screenSound/screenSound/primeiroProjeto/obj/Debug/net7.0/primeiroProjeto.pdb
+/Users/juliarufino/Documents/projetosGitHub/screenSound/screenSound/primeiroProjeto/obj/Debug/net7.0/primeiroProjeto.genruntimeconfig.cache
+/Users/juliarufino/Documents/projetosGitHub/screenSound/screenSound/primeiroProjeto/obj/Debug/net7.0/ref/primeiroProjeto.dll
